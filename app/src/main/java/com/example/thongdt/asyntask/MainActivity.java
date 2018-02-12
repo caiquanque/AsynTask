@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         //Tra ve kieu chuoi(String) (Do Result la kieu String)
+        //Khong lam thay doi giao dien
         @Override
         protected String doInBackground(Void... voids) {
 
